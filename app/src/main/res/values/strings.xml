@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+
+    <!--Admob Ads Id Setup-->
+    <string name="app_id">ca-app-pub-7593602752326571~9741880691</string>
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <!--Top Menu Setup-->
+    <string name="Devloper_ID">Inspiration+Apps+Studio</string>
+    <string name="privacy_policy_url">https://docs.google.com/document/d/1XVLZFQvguIH7fW2Eakaj66UtmaDHXO-7rgbIGbCGQ3Y/edit?usp=sharing</string>
+    <string name="Email">inspirationappsstudio@gmail.com</string>
+   <!-- orignal ads-->
+  <!--  <string name="fb_int_add_id">3664081493711509_3664084850377840</string>-->
+   <!-- test ads-->
+    <string name="fb_int_add_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+    <string name="test_fb_int_ad_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <!-- orignal ads-->
+ <!--   <string name="fb_banner_ad_id">3664081493711509_3664082447044747</string>-->
+    <!-- test ads-->
+    <string name="fb_banner_ad_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+<!--
+    "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+
+-->
+</resources>

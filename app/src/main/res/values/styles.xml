@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@drawable/bg_ttolbar</item>
+        <item name="toolbarStyle">@style/Widget.Toolbar</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="colorPrimary">#FF674E</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#FF893A</item>
+    </style>
+
+    <style name="AppThemenoaction" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimary">#FF674E</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#FF893A</item>
+    </style>
+    <style name="Widget.Toolbar" parent="@style/Widget.AppCompat.Toolbar">
+        <item name="contentInsetStart">0dp</item>
+        <item name="android:background">@drawable/bg_ttolbar</item>
+    </style>
+</resources>
